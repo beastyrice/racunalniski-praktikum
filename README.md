@@ -1,1 +1,2 @@
-# racunalniski-praktikum
+# Računalniški praktikum
+# Sem študent 1. letnika FM na FMF in sem po pravici precej zmeden, saj navodila za vaje v slovenščini vse precej otežijo, saj so vsi programi v angleščini...
