@@ -57,6 +57,7 @@ h2 {
     height: auto;
     border-radius: 30%;
   }
-.slika p:last-child {
+.slika p:last-child ::before {
+    content: '🔗';
     font-size: 0.8em;
   }
