@@ -55,4 +55,8 @@ h2 {
 .slika img {
     width: 100%; 
     height: auto;
+    border-radius: 30%;
+  }
+.slika p:last-child {
+    font-size: 0.8em;
   }
